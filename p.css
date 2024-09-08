@@ -1,0 +1,44 @@
+css
+
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    margin-left: 10px;
+    width: 30ppx;
+    height: 300px;
+}
+.head{
+  text-align: center;
+  font-size: 3rem;
+  background-color: rgb(36, 32, 32);
+  color: snow;
+  padding: 30px;  
+}
+.bod{
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.heading{
+   
+    margin-top: 20px;
+}
+.para{
+    padding: 20px;
+}
+.skill{
+    margin-left: 60px;
+    text-align: left;
+}
+footer{
+
+    text-align: center;
+    padding: 2px;
+    background-color: black;
+    color:antiquewhite;}
